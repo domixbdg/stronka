@@ -1,0 +1,85 @@
+h1 {
+color:green;
+padding: 2%;
+}
+
+h3 {
+padding: 2%;
+
+}
+
+
+p1 {
+
+color:blue;
+}
+
+
+p2 {
+padding: 2%;
+color:darkblue;
+}
+
+
+p3 {
+padding: 2%;
+color:red;
+}
+
+p4 {
+padding: 2%;
+font-size: 120%;
+}
+
+
+li {
+padding: 5px;
+}
+
+
+.opis {
+border-top-left-radius: 20px;
+float: left;
+width:50%;
+height: 900px;
+background-image: url(woda2.jpg);
+background-attachment: fixed; 
+
+}
+
+.zdjęcia {
+border-top-right-radius: 20px;
+float: right;
+width:50%;
+height: 900px;
+background-color: lightblue;
+}
+
+.stopka {
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 20px;
+float:left;
+width:100%;
+background-color: black;
+color: white;
+}
+
+img {
+width: 90%;
+height: 40%;
+padding: 5%;
+
+}
+
+table {
+
+padding: 5%;
+}
+
+td {
+width:12%;
+height:60px;
+ border: 1px solid black; 
+}
+
+
